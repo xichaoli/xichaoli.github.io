@@ -7,7 +7,19 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 11 Sep 2023 16:01:47 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>First</title>
+        <link>https://example.com/p/first/</link>
+        <pubDate>Mon, 11 Sep 2023 16:01:47 +0800</pubDate>
+        
+        <guid>https://example.com/p/first/</guid>
+        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Visit the &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&lt;/a&gt; website!&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Archives</title>
         <link>https://example.com/archives/</link>
         <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
