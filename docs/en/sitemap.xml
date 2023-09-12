@@ -2,59 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://xichao.github.com/</loc>
     <lastmod>2023-09-11T16:01:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/"
+                href="https://xichao.github.com/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://xichao.github.com/"
                 />
   </url><url>
-    <loc>https://example.com/p/first/</loc>
+    <loc>https://xichao.github.com/p/first/</loc>
     <lastmod>2023-09-11T16:01:47+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://xichao.github.com/post/</loc>
     <lastmod>2023-09-11T16:01:47+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://xichao.github.com/archives/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/page/</loc>
+    <loc>https://xichao.github.com/page/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://xichao.github.com/about/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://xichao.github.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/"
+                href="https://xichao.github.com/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://xichao.github.com/categories/"
                 />
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://xichao.github.com/search/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://xichao.github.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/"
+                href="https://xichao.github.com/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://xichao.github.com/tags/"
                 />
   </url><url>
-    <loc>https://example.com/categories/test/</loc>
+    <loc>https://xichao.github.com/categories/test/</loc>
   </url>
 </urlset>

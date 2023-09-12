@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/zh-cn/categories/</loc>
+    <loc>https://xichao.github.com/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://xichao.github.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/"
+                href="https://xichao.github.com/zh-cn/categories/"
                 />
   </url><url>
-    <loc>https://example.com/zh-cn/tags/</loc>
+    <loc>https://xichao.github.com/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://xichao.github.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/"
+                href="https://xichao.github.com/zh-cn/tags/"
                 />
   </url><url>
-    <loc>https://example.com/zh-cn/</loc>
+    <loc>https://xichao.github.com/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://xichao.github.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/"
+                href="https://xichao.github.com/zh-cn/"
                 />
   </url>
 </urlset>

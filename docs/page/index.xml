@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Example Site</title>
-        <link>https://example.com/page/</link>
+        <link>https://xichao.github.com/page/</link>
         <description>Recent content in Pages on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://xichao.github.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
-        <link>https://example.com/archives/</link>
+        <link>https://xichao.github.com/archives/</link>
         <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/archives/</guid>
+        <guid>https://xichao.github.com/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>https://example.com/about/</link>
+        <link>https://xichao.github.com/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/about/</guid>
+        <guid>https://xichao.github.com/about/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://example.com/search/</link>
+        <link>https://xichao.github.com/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/search/</guid>
+        <guid>https://xichao.github.com/search/</guid>
         <description></description>
         </item>
         
