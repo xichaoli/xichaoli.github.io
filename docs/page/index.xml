@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on Example Site</title>
+        <title>Pages on xichao的云笔记</title>
         <link>https://xichao.github.com/page/</link>
-        <description>Recent content in Pages on Example Site</description>
+        <description>Recent content in Pages on xichao的云笔记</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <copyright>Example Person</copyright>
+        <language>zh-cn</language>
+        <copyright>xichaoli</copyright>
         <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://xichao.github.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Archives</title>
+        <title>归档</title>
         <link>https://xichao.github.com/archives/</link>
         <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
         
@@ -16,16 +16,16 @@
         <description></description>
         </item>
         <item>
-        <title>About</title>
-        <link>https://xichao.github.com/about/</link>
+        <title>关于我</title>
+        <link>https://xichao.github.com/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://xichao.github.com/about/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+        <guid>https://xichao.github.com/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
+        <description>&lt;p&gt;一个对计算机充满好奇的，热爱编程的非码农．&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Search</title>
+        <title>搜索</title>
         <link>https://xichao.github.com/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         

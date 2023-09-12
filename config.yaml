@@ -1,23 +1,9 @@
 baseurl: https://xichao.github.com/
-languageCode: en-us
+languageCode: zh-cn 
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
-copyright: Example Person
-
-languages:
-    en:
-        languageName: English
-        title: Example Site
-        weight: 1
-        params:
-            description: Example description
-    zh-cn:
-        languageName: 中文
-        title: 演示站点
-        weight: 2
-        params:
-            description: 演示说明
+title: xichao的云笔记
+copyright: xichaoli
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -27,7 +13,7 @@ googleAnalytics:
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
-DefaultContentLanguage: en
+DefaultContentLanguage: zh-cn
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
@@ -45,7 +31,7 @@ params:
     favicon:  # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2020
+        since: 2023
         customText:
 
     dateFormat:
@@ -54,7 +40,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 我的个人博客，用来记录工作、学习中的一些新知识、新技能、操作步骤等。还会把之前在云笔记中的文档迁移过来。
         avatar:
             enabled: true
             local: true
